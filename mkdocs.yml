@@ -1,0 +1,8 @@
+site_name: Pispalan IT
+nav:
+  - Blogi: blogi.md
+  - Yhteystiedot: yhteystiedot.md
+markdown_extensions:
+  - markdown_include.include:
+      base_path: docs
+      inheritHeadingDepth: True
