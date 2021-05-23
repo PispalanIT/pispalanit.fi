@@ -1,4 +1,13 @@
+---
+title: TinyGS projektin aloitus
+summary: 16.5.2021 TinyGS projektin aloitus
+authors:
+    - Harry Karvonen
+    - Pispalan IT
+date: 2021-05-16
+---
 # 16.5.2021 TinyGS projektin aloitus
+`Harry Karvonen, Pispalan IT`
 
 Moro, olen päättänyt aloitta uuden projektin liittyen satelliitteihin,
 kuunneltuani [Wappuradiota](https://wappuradio.fi). Myös uutisissa oli asiasta

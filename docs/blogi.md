@@ -2,11 +2,17 @@
 title: Pispalan IT blogi
 summary: Etusivu
 authors:
-    - Pispalan IT
     - Harry Karvonen
+    - Pispalan IT
 date: 2021-05-04
 template: no_toc.html
 ---
+## [22.5.2021 TinyGS projektin tilaus saapui](2021/05/22/tinygs_projektin_tilaus_saapui.md)
+
+Viikko sitten tilaamani radiot saapuivat UPS:n toimittamana.
+
+[lue kokonaan](2021/05/22/tinygs_projektin_tilaus_saapui.md)
+
 ## [16.5.2021 TinyGS projektin aloitus](2021/05/16/tinygs_projektin_aloitus.md)
 
 Moro, olen päättänyt aloitta uuden projektin liittyen satelliitteihin, kuunneltuani Wappuradiota. Myös uutisissa oli asiasta ja kyseessä on UPM:n valmistama puinen satelliitti WISA WOODSAT. Tutkittuani asiaa totesin ettei vielä ole liian myöhäistä rakentaa laitteistoa, jolla saadaan napattua satelliitin lähettämiä selfieitä.
