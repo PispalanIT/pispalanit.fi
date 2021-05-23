@@ -1,8 +1,10 @@
 site_name: Pispalan IT
+site_author: Pispalan Insinööritoimisto Oy
+site_decription: Pispalan IT blogi
+google_analytics: ['G-CG6MFQ5HBN', 'pispalanit.fi']
 nav:
   - Blogi: blogi.md
   - Yhteystiedot: yhteystiedot.md
-markdown_extensions:
-  - markdown_include.include:
-      base_path: docs
-      inheritHeadingDepth: True
+theme:
+  name: mkdocs
+  custom_dir: custom_template/
