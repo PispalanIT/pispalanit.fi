@@ -7,6 +7,14 @@ authors:
 date: 2021-05-04
 template: no_toc.html
 ---
+
+## [6.6.2021 ESP32 Arduino](2021/06/06/esp32_arduino.md)
+
+...
+
+[lue kokonaan](2021/06/06/esp32_arduino.md)
+
+
 ## [30.5.2021 LILYGO TTGO LoRa32 V2.1_1.6](2021/05/30/lilygo_ttgo_lora32.md)
 
 Tutkin saatuja radio-moduuleja ja ne ovat näköjään tasan samoja kuin
