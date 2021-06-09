@@ -10,6 +10,8 @@ template: no_toc.html
 
 ## [6.6.2021 ESP32 Arduino](2021/06/06/esp32_arduino.md)
 
+Tänään tutkin miten ohjelmointia tehdään ESP32-mikro-ohjaimelle. Kyseltyäni tutuilta joilla oli jotain kosketusta näihin mikro-ohjaimiin, sain selville että ohjelmointi onnistuu suoraan Arduino IDE:llä.
+
 ...
 
 [lue kokonaan](2021/06/06/esp32_arduino.md)
