@@ -8,6 +8,13 @@ date: 2021-05-04
 template: no_toc.html
 ---
 
+## [16.8.2021 Platformio](2021/08/16/platformio.md)
+Tänään tutustuin TinyGS ohjelman kääntämiseen ja lataamiseen ESP32 mikro-ohjaimelle. Projektin kehittäjät suosittelevat Platformio:n käyttämistä ja päätin tutustua miten tämä toimii. Platformio on Python:lla toteutettu käännösympäristö, joka huolehtii kirjastojen hakemisesta, koodin kääntämisestä ja binäärin lataamisesta mikro-ohjaimelle. Tarkempia tietoja osoitteesta https://docs.platformio.org/en/latest/.
+
+...
+
+[lue kokonaan](2021/08/16/platformio.md)
+
 ## [6.6.2021 ESP32 Arduino](2021/06/06/esp32_arduino.md)
 
 Tänään tutkin miten ohjelmointia tehdään ESP32-mikro-ohjaimelle. Kyseltyäni tutuilta joilla oli jotain kosketusta näihin mikro-ohjaimiin, sain selville että ohjelmointi onnistuu suoraan Arduino IDE:llä.
